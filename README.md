@@ -1,6 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Erum Naushad
 =====================================================================================================================================
 
+Student - Computer Science, Teaching Assistant, Web/App Developer
+-----------------------------------------------------------------
+
+I’m Erum, a Computer Science undergraduate student from Pakistan, and since I was 14, I’ve used technology to tackle the challenges around me, not just to solve problems, but to help others believe they can too.
+
+I pushed myself on to the national stages of science and technology fairs where I bagged awards and titles, and that is where my motivation for pursuing impactful STEM-related work was rooted.
+
+I then taught myself software engineering early on through some online playlists and courses and went on to lead tech-for-good projects which were showcased on the global platforms of TEKNOFEST, ActinSpace, NASA Space Apps Challenge and Technovation. I also earned certifications in PenTesting and Software Engineering from the National Cyber Training Program.
+
+I then also stepped into roles of mentorship and my projects became teaching models for students across Karachi, and helped them understand global-stage innovation and opportunities. Additionally, I created a digital platform called "EruMentor." to further provide them a chance to connect with me.
+
+I’ve also been proactive as a university student both internally and externally, having been a program assistant for offices in need of revamps, an avid leader for clubs, a pioneer of tech workshops and STEM-based events (a One Young World 2024 delegate speaker was a guest speaker in one of them), and a dependable event manager for the student government for which I also drafted the constitution. I am currently an active intern and volunteer for revered non-profit organisations that prioritise welfare.
+
+Space-for-Earth innovation is my true calling, and I wish to make a change by leveraging space data, research and technologies to equitably benefit all.
+
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [en09191@st.habib.edu.pk](mailto:en09191@st.habib.edu.pk)
 * 🧠  I'm currently learning Cybersecurity
@@ -11,4 +26,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/erum007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/erum007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/erum-naushad-152064210/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
